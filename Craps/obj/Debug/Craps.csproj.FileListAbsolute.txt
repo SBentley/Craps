@@ -1,0 +1,6 @@
+c:\users\samtb_000\documents\visual studio 2012\Projects\Craps\Craps\bin\Debug\Craps.exe.config
+c:\users\samtb_000\documents\visual studio 2012\Projects\Craps\Craps\bin\Debug\Craps.exe
+c:\users\samtb_000\documents\visual studio 2012\Projects\Craps\Craps\bin\Debug\Craps.pdb
+c:\users\samtb_000\documents\visual studio 2012\Projects\Craps\Craps\obj\Debug\Craps.csprojResolveAssemblyReference.cache
+c:\users\samtb_000\documents\visual studio 2012\Projects\Craps\Craps\obj\Debug\Craps.exe
+c:\users\samtb_000\documents\visual studio 2012\Projects\Craps\Craps\obj\Debug\Craps.pdb
